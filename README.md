@@ -19,7 +19,6 @@ This repository contains a collection of applied machine learning and deep learn
 
 - Python, PyTorch, TensorFlow
 - YOLOv8, Transformers
-- Optimization (PSO)
 
 ## 🚀 How to Run
 
